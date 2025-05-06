@@ -1,0 +1,1 @@
+getgenv().Team = "Marines" loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/ThanhTrung/refs/heads/main/MaruHub"))()
